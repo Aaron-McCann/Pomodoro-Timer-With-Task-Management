@@ -20,7 +20,7 @@ A sleek and modern Pomodoro timer app that helps you focus, stay productive, and
 ## Screenshots
 
 ### Main Timer View:
-![Pomodoro Timer Screenshot](pomodoro.png)
+![Pomodoro Timer Screenshot](./assets/pomodoro-screenshot.png)
 
 
 ## Usage:
