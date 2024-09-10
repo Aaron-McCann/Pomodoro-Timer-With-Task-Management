@@ -5,12 +5,8 @@ A sleek and modern Pomodoro timer app that helps you focus, stay productive, and
 ## Table of Contents
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -24,10 +20,8 @@ A sleek and modern Pomodoro timer app that helps you focus, stay productive, and
 ## Screenshots
 
 ### Main Timer View:
-![Pomodoro Timer Screenshot](screenshot-url-here)
+![Pomodoro Timer Screenshot](pomodoro.png)
 
-### Task Management:
-![Task List Screenshot](task-screenshot-url-here)
 
 ## Usage:
 
